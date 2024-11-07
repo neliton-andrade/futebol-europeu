@@ -18,3 +18,8 @@ section{
     display: flex;
     justify-content: center;
 }
+
+.chamada-texto[
+margin-right: 5%;
+]
+    
